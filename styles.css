@@ -42,6 +42,7 @@ a:active{
     margin: 10px;
     /* padding: 5px;    */
     display: inline-block;
+    text-align: initial;
 }
 
 img{
